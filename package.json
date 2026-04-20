@@ -41,7 +41,7 @@
     "jquery": "^3.5.0",
     "jquery-validation": "^1.19.3",
     "jquery.are-you-sure": "^1.9.0",
-    "mime": "^1.4.1",
+    "mime": "^4.0.7",
     "qs": "^6.9.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
