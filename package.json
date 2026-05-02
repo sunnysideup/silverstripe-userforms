@@ -43,7 +43,7 @@
     "jquery.are-you-sure": "^1.9.0",
     "mime": "^1.4.1",
     "qs": "^6.9.4",
-    "react": "^16.13.1",
+    "react": "^19.1.0",
     "react-dom": "^16.13.1"
   },
   "babel": {
